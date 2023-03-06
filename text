@@ -1,0 +1,12 @@
+// hof / higher-order-functions : fungsi yg mengambil fungsi lain sebagai argumen dan atau mengembalikan fungsi ke pemanggilnya sifatnya bawaan atau build in
+// .foreach => perulangan
+// .map => untuk memodifikasi data tanpa merubah data utama
+// filter => hanya akan mereturn hasil yg true
+// reduce
+
+
+
+
+
+// CALLBACK
+// callback : fungsi yang diteruskan ke fungsi lain dengan harapan fungsi lain akan memanggilnya
